@@ -1,0 +1,48 @@
+body {
+	background-color: #C0C0C0;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 200px;
+	width: 200px;
+	box-shadow: grey 7px 7px;
+}
+
+h1 {
+	text-shadow: 2px 2px #ff0000;
+	text-align: center;
+	font-family: Arial;
+}
+
+h2 {
+	text-align: center;
+	font-family: Verdana;
+	color: #ff0000;
+}
+
+h3 {
+	text-align: center;
+	font-family: Georgia;
+	color: #ff0000;
+}
+
+h4 {
+	text-align: center;
+	font-family: Palitino;
+	color: #ff0000;
+}
+
+p {
+	text-align: center;
+}
+
+address {
+	text-align: center;
+}
+div.border {
+	border-bottom: 1px solid #000;
+}
